@@ -1,0 +1,56 @@
+body {
+    background-color: lightgreen; 
+    margin-top: 50px;
+    font-family: 'Open Sans' , sans-serif;
+}
+header{
+    background-color: pink;
+  
+}
+
+header .nav {
+    min-height: 80px;
+    overflow: hidden;
+}
+
+header .logo h2, header .logo p{
+    font-size: 16 px;
+    display: inline-block;
+}
+header .logo .icono{
+    color: aquamarine;
+}
+header .logo svg{
+    width: 20px;
+    height: 20px;
+}
+header .logo o{
+    color: yellowgreen;
+}
+
+header .menu .c1 {background-color: indianred;}
+header .menu .c2 {background-color: mediumseagreen;}
+header .menu .c3 {background-color: darkolivegreen;}
+header .menu .c4 {background-color: green;}
+
+section {
+background-color: #fff;
+margin-top: 0;
+}
+
+section article{
+    padding: 1em;
+    border: 1px solid darkgreen;
+}
+section h1, section h3{
+    color:indianred; 
+}
+
+p.parrafo1{
+    font-family: Radley;
+    font-size:xx-large;
+    color: darkolivegreen;
+}
+
+
+/*#777777;*/
